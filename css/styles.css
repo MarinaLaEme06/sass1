@@ -1,0 +1,17 @@
+footer {
+  background-color: white; }
+
+ul {
+  color: white; }
+  ul .nav-item {
+    list-style-type: none;
+    padding: 20 px; }
+    ul .nav-item .nav-link {
+      text-decoration: none;
+      color: black; }
+      ul .nav-item .nav-link:hover {
+        color: deeppink; }
+
+.fondo-publicidad {
+  background-color: black;
+  height: 15px; }
